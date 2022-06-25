@@ -30,12 +30,14 @@ Twitter is an online hub where substantial amount of opinion being shared by peo
 **2. Analysis of Key Event:**
   One of the key events taken up for a detailed empirical study is the public support in favor of
 farmers from the renowned celebrity (Rihanna) with 106 million twitter followers. It amplified the voice of the farmers and took the protest at a global level. The twitter influencer’s tweet was “Why aren’t we taking about this?! #Farmers Protest” attracted 907 thousand likes and 297 thousand retweets. Totally 1.2 million reactions from across the world has brought the attention of public and the government back to the protesting farmers.
+
 <img width="683" alt="image" src="https://user-images.githubusercontent.com/63796480/175785560-8a32af98-04f0-4041-8cf6-0727de597f2e.png">
 
 ***i. Analysis:*** 
   Key event taken for this study happened on 2-Feb-21 with a tweet from Rihanna. Twitter data analysis was performed to measure the impact of this key event. It is visible from Figure 9 that the event has created a lot of public discussion about the issue and forced the government to come back to the negotiating table.
+
 <img width="480" alt="image" src="https://user-images.githubusercontent.com/63796480/175785913-7f8ec574-9537-4164-89af-2b248f7ce3f9.png">
- 
+
 **3. Comparative study with similar events**
   To support and prove the argument about the key event, this study is extended to analyze similar past events in the same ecosystem but without the support from the digital medium. 
 
