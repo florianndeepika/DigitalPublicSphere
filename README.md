@@ -35,7 +35,7 @@ farmers from the renowned celebrity (Rihanna) with 106 million twitter followers
 ***i. Analysis:*** 
   Key event taken for this study happened on 2-Feb-21 with a tweet from Rihanna. Twitter data analysis was performed to measure the impact of this key event. It is visible from Figure 9 that the event has created a lot of public discussion about the issue and forced the government to come back to the negotiating table.
 <img width="480" alt="image" src="https://user-images.githubusercontent.com/63796480/175785913-7f8ec574-9537-4164-89af-2b248f7ce3f9.png">
-
+ 
 **3. Comparative study with similar events**
   To support and prove the argument about the key event, this study is extended to analyze similar past events in the same ecosystem but without the support from the digital medium. 
 
@@ -50,6 +50,7 @@ farmers from the renowned celebrity (Rihanna) with 106 million twitter followers
   
 ***iv. Results: ***
   At the end the 7 months long protest, the outcome was less favorable to the farmers. Protesting farmers getting support from celebrities with their physical presence in the protest location and creating public debate and awareness about farmer’s very low income were undisputable. Analysis of twitter data reveals that the advantage of digital public sphere was not properly exploited to gain the required support to put pressure on the government.
+
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/63796480/175785935-cc4ec362-4f19-495d-a38d-a36c314a1126.png">
 
 **Result:**
