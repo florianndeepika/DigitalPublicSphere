@@ -1,4 +1,5 @@
-# Tractor To Twitter: Role of digital public sphere in empowering farmers to persuade the Indian Government in repealing Agriculture Reform Laws 2020
+# Digital Public Sphere using sentiment Analysis
+Tractor To Twitter: Sentiment Analysis on India Agriculture Reform Laws 2020 and 2017
 
 **Summary:**
     The epoch of public sphere has drastically transformed over a period. The current ongoing structural transformation of the digital public sphere on various social platform has provided a disparate perspective on how people’s opinion matters that can break a democracy of a country. This empirical research investigates the three Audacious Farm Bill of 2020 passed by Indian government for agriculture as a best intention to support farmer’s livelihood. The formulation of the new laws had several implications on APMC (Agriculture Produce Market Regulation Act) and MSP (Minimum Support Price) which triggered experts, states, and stakeholders, including farmers, with vigorous protests across the country in seeking of the law’s withdrawal. This research paper analyses how digital dimension of public sphere was utilized to make farmers grievances being heard
