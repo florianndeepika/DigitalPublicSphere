@@ -25,6 +25,7 @@ Twitter is an online hub where substantial amount of opinion being shared by peo
 ***iv. Opinion Analysis***
   500 thousand tweet data had been analyzed to determine the sentiment polarity. Natural Language processing algorithm has been applied to extract the Sentiment polarity from the tweet data. Output of the algorithm is in line with the expected public opinion about the farm laws.
 50% of the opinion are positive sentiments – which means they are in support of the farmer’s protest. 30% of the opinion are negative sentiments – which means that the words used are negative in nature.20% of the opinion are neutral which can be interpreted that 20% of the population is neither supportive nor against the farm laws.
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/63796480/175785885-e88aa76a-4d92-47cd-a962-535d52e35819.png">
 
 **2. Analysis of Key Event:**
   One of the key events taken up for a detailed empirical study is the public support in favor of
@@ -33,6 +34,7 @@ farmers from the renowned celebrity (Rihanna) with 106 million twitter followers
 
 ***i. Analysis:*** 
   Key event taken for this study happened on 2-Feb-21 with a tweet from Rihanna. Twitter data analysis was performed to measure the impact of this key event. It is visible from Figure 9 that the event has created a lot of public discussion about the issue and forced the government to come back to the negotiating table.
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/63796480/175785913-7f8ec574-9537-4164-89af-2b248f7ce3f9.png">
 
 **3. Comparative study with similar events**
   To support and prove the argument about the key event, this study is extended to analyze similar past events in the same ecosystem but without the support from the digital medium. 
@@ -48,6 +50,7 @@ farmers from the renowned celebrity (Rihanna) with 106 million twitter followers
   
 ***iv. Results: ***
   At the end the 7 months long protest, the outcome was less favorable to the farmers. Protesting farmers getting support from celebrities with their physical presence in the protest location and creating public debate and awareness about farmer’s very low income were undisputable. Analysis of twitter data reveals that the advantage of digital public sphere was not properly exploited to gain the required support to put pressure on the government.
+<img width="397" alt="image" src="https://user-images.githubusercontent.com/63796480/175785935-cc4ec362-4f19-495d-a38d-a36c314a1126.png">
 
 **Result:**
 “There is a wealth of information and diverse voices to be found online” as quoted by Schäfer, there are several upsides and downsides to be noted from the analysis. From the research, it can be observed that “Digital”, “Virtual”, or “online” public sphere provides medium of free speech which facilitates participation in government and reducing the gap in public discourse. It expands the access to government information by strengthening civil society through the building of networks among individuals. Although Internet is not a conventional mass medium it enabled communication in several ways to gain support for the farmers globally.
